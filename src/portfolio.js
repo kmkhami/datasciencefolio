@@ -288,7 +288,7 @@ const projectcards = {
     },
     {
       title: "RapiDocs",
-      img_path: "gan.gif",
+      img_path: "EHR-Preview.gif",
       description:
         "A webapp to allow patients to take control of their EHR data.",
       tags: [
