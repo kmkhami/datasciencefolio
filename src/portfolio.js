@@ -10,7 +10,7 @@ const seo = {
   og: {
     title: "Nicholas Portfolio",
     type: "website",
-    url: "http://rohankokkula.ml/",
+    url: "https://nicholaskhami.com/",
   },
 };
 
@@ -39,7 +39,7 @@ const competitiveSites = {
       style: {
         color: "#0077b5",
       },
-      profileLink: "https://www.linkedin.com/in/rohankokkula/",
+      profileLink: "https://www.linkedin.com/in/nicholas-khami-5a0a7a135/",
     },
   ],
 };
