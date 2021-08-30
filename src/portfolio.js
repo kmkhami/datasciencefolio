@@ -51,9 +51,9 @@ const skills = {
       title: "Data Science & Analysis",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production-ready models for various deep learning and statistical use cases",
+        "⚡ Developed highly scalable production-ready models for various deep learning and statistical use cases",
         "⚡ Experience in working with Machine Learning using GANS and other techniques",
-        "⚡ Having good hands-on with Data Cleaning, processing & Analysing using Pandas, NumPy, and Matplotlib",
+        "⚡ Experience with Data Cleaning, processing & Analysing using Pandas, NumPy, and Matplotlib",
         "⚡ Experience with various Javascript frameworks in both mobile and web development",
       ],
       softwareSkills: [
@@ -107,9 +107,9 @@ const skills = {
       title: "Web Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive websites using HTML5, CSS3, BootStrap5, ReactJS & NodeJS, and Ruby on Rails",
-        "⚡ Creating application backend in Node, Express & Serverless APIs",
-        "⚡ Have experience in Domain & Hosting using Netlify, Vercel, Heroku & Hostinger",
+        "⚡ Built responsive websites using HTML5, CSS3, BootStrap5, ReactJS & NodeJS, and Ruby on Rails",
+        "⚡ Have created application backends in Node, Express & Serverless APIs",
+        "⚡ Experience in Domain & Hosting using AWS, Vercel, Heroku, and Hostinger",
       ],
       softwareSkills: [
         {
@@ -175,9 +175,8 @@ const skills = {
       title: "Blockchain",
       fileName: "DesignImg",
       skills: [
-        "⚡ Design crypto integration strategy at NelNet PaymentSpring",
-        "⚡ Integrate into Coinbase and Gemini APIs",
-        "⚡ Host and setup nodes for chain resolution",
+        "⚡ Designed a Coinbase integration demo at NelNet PaymentSpring over the course of a week",
+        "⚡ Hosted and setup personal nodes for chain resolution"
       ],
       softwareSkills: [
         {
