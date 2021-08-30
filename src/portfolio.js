@@ -340,9 +340,9 @@ const resumeleft = {
         date: "August 2020 - Current",
         content: [
           "Managed docker containers and configuration for multi-tier development environment.",
-          "Tested and deployed code onto AWS EC2 instances.",
+          "Tested and deployed code onto AWS EC2 instances and SAM applications.",
           "Worked with PostgresSQL database and related back-end technologies.",
-          "Wrote back-end code in Ruby for a Ruby on Rails server-side web application framework."
+          "Wrote back-end code in Ruby for a Ruby on Rails server-side web application framework.", 
         ],
       }
     ],
