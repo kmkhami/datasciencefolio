@@ -19,7 +19,7 @@ const greeting = {
   title: "Hello!",
   sub: "Nicholas Khami",
   logo_name: "Nicholas Khami",
-  resumeLink: "https://www.nicholaskhami.com/documents/data_science_resume.html",
+  resumeLink: "https://www.nicholaskhami.site/education",
 };
 
 // home logos
