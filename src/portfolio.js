@@ -224,6 +224,37 @@ const projectsHeader = {
 const projectcards = {
   list: [
     {
+      title: "Automatic Feature Highlighting In Noisy RES Data",
+      img_path: "gan.gif",
+      description:
+        "First author on a Computer Vision research paper that uses CycleGAN for denoising.",
+      tags: [
+        {
+          lang: "python",
+          color: "red",
+        },
+        {
+          lang: "CycleGAN",
+          color: "#004782",
+        },
+        {
+          lang: "matplotlib",
+          color: "#c47206",
+        },
+        {
+          lang: "PyTorch",
+          color: "#4257f5",
+        },
+        {
+          lang: "Jupyter",
+          color: "#ff4b4b",
+        },
+      ],
+      link: "https://arxiv.org/abs/2108.11283",
+      code: "https://arxiv.org/abs/2108.11283",
+      linkcolor: "white",
+    },
+    {
       title: "Optimal Well Location Selector",
       img_path: "RF.gif",
       description:
@@ -252,37 +283,6 @@ const projectcards = {
       ],
       link: "https://github.com/kmkhami/Well_Location_Selection",
       code: "https://github.com/kmkhami/Well_Location_Selection",
-      linkcolor: "white",
-    },
-    {
-      title: "Automatic Feature Highlighting In Noisy RES Data",
-      img_path: "gan.gif",
-      description:
-        "First author on a Computer Vision research paper that uses CycleGAN for denoising.",
-      tags: [
-        {
-          lang: "python",
-          color: "red",
-        },
-        {
-          lang: "CycleGAN",
-          color: "#004782",
-        },
-        {
-          lang: "matplotlib",
-          color: "#c47206",
-        },
-        {
-          lang: "PyTorch",
-          color: "#4257f5",
-        },
-        {
-          lang: "Jupyter",
-          color: "#ff4b4b",
-        },
-      ],
-      link: "https://www.nicholaskhami.com/documents/Feature_Highlighting_Prepublication.pdf",
-      code: "https://www.nicholaskhami.com/documents/Feature_Highlighting_Prepublication.pdf",
       linkcolor: "white",
     },
     {
