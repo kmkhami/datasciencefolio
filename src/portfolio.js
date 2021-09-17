@@ -337,7 +337,7 @@ const resumeleft = {
       {
         title: "Software Engineering Intern",
         subtitle: "NelNet PaymentSpring",
-        date: "August 2020 - Current",
+        date: "May 2021 - Current",
         content: [
           "Managed docker containers and configuration for multi-tier development environment.",
           "Tested and deployed code onto AWS EC2 instances and SAM applications.",
