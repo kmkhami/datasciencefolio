@@ -324,6 +324,17 @@ const resumeleft = {
     title: ["Experience"],
     data: [
       {
+        title: "Full Stack Software Engineer",
+        subtitle: "NelNet PaymentSpring",
+        date: "May 2021 - Current",
+        content: [
+          "Managed docker containers and configuration for multi-tier development environment.",
+          "Tested and deployed code onto AWS EC2 instances and SAM applications.",
+          "Worked with PostgresSQL database and related back-end technologies.",
+          "Wrote back-end code in Ruby for a Ruby on Rails server-side web application framework.", 
+        ],
+      },
+      {
         title: "Undergraduate Data Science Researcher",
         subtitle: "ConocoPhillips and UT Austin",
         date: "August 2020 - May 2021",
@@ -332,17 +343,6 @@ const resumeleft = {
           "Communicated research observations through markdown documentation in Jupyter notebooks and slidedeck presentations.",
           "Deployed a RandomForestRegressor to make suggestions about the best well locations in a given geological area.",
           "Used CycleGAN to develop a new technique for denoising and isolating layers in Radio-Echo-Sounding data that is currently in pre-publication."
-        ],
-      },
-      {
-        title: "Software Engineering Intern",
-        subtitle: "NelNet PaymentSpring",
-        date: "May 2021 - Current",
-        content: [
-          "Managed docker containers and configuration for multi-tier development environment.",
-          "Tested and deployed code onto AWS EC2 instances and SAM applications.",
-          "Worked with PostgresSQL database and related back-end technologies.",
-          "Wrote back-end code in Ruby for a Ruby on Rails server-side web application framework.", 
         ],
       }
     ],
@@ -355,17 +355,11 @@ const resumeright = {
       title: ["Education"],
       data: [
         {
-          title: "Bachelor of Computer Science",
+          title: "Bachelor Science in Computer Science",
           subtitle: "University of Texas at Austin",
-          date: "2020 - 2024",
-          content: ["GPA: 3.96"]
-        },
-        {
-          title: "Bachelor of Applied Mathematics",
-          subtitle: "University of Texas at Austin",
-          date: "2020 - 2024",
-          content: ["GPA: 3.96"]
-        },
+          date: "08/2020 - 12/2022",
+          content: ["GPA: 3.90"]
+        }
       ],
     }
   ],
